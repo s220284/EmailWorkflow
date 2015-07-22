@@ -1,0 +1,45 @@
+---
+layout: old.hbs
+subject: Branded transaction email example
+---
+<span class="preheader">This is preheader text. Some clients will show this text as a preview.</span>
+<div class="header">
+	<table cellpadding="0" cellspacing="0" border="0" align="center">
+		<tr>
+			<td width="498" class="container" align="center">
+				<a class="logo" href="http://www.shellypalmer.com">ShellyPalmer</a>
+				<span class="tagline">Helping you succeed in a connected world.</span>
+				<p class="date">{{sp.date}}</p>
+			</td>
+		</tr>
+	</table>
+</div>
+<table class="main">
+	<tr>
+		<td class="wrapper">
+			<table>
+				<tr>
+					<td>
+						{{> top_stories }}
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<div class="footer">
+<table cellpadding="0" cellspacing="0" border="0" align="center">
+	<tr>
+		<td width="498" class="container" align="center">
+			<p class="follow">{{> follow_lee }}</p>
+		</td>
+	</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" align="center">
+	<tr>
+		<td width="498" class="container" align="center" class="fine-print">
+			Copyright &copy; *|CURRENT_YEAR|* *|LIST:ADDRESS|* <!-- *|IFNOT:ARCHIVE_PAGE|* --> *|LIST:DESCRIPTION|* <!-- *|END:IF|* --> If you don't want to receive these emails from ShellyPalmer in the future, please <a href="*|UNSUB|*">unsubscribe from this list</a> or <a href="*|UPDATE_PROFILE|*">update your subscription preferences.</a>
+		</td>
+	</tr>
+</table>
+</div>

@@ -1,0 +1,6 @@
+
+{{#each sp.story}}
+	<h3><a class="story-title" href={{link}}>{{title}}</a></h3>
+	<p class="story-excerpt"><a class="story-excerpt-link" href="{{link}}">{{excerpt}}</a></p>
+	<p class="story-author"><a class="story-author-link" href="{{link}}">{{#if video}} Watch Now {{else}} Read More {{/if}}<span class="more">• {{author}}</span></a></p>
+{{/each}}

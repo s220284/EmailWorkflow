@@ -1,0 +1,41 @@
+{
+  "subject": "Designing with Science",
+  "preheader": "Last year at Facebook, a small team was given a big problem to solve. This was nothing new, except the problem we were given was unique for both Facebook and the industry. The story of how Conversion Lift came to be is an interesting one since we needed to convey a complex concept at scale -- scientific proof of the real-world value of running ads.",
+  "date": "Thursday, July 23, 2015",
+  "story": [{
+    "link": "https://medium.com/elegant-tools/designing-with-science-b33536e95f52",
+    "title": "Designing with Science",
+    "excerpt": "Last year at Facebook, a small team was given a big problem to solve. This was nothing new, except the problem we were given was unique for both Facebook and the industry. The story of how Conversion Lift came to be is an interesting one since we needed to convey a complex concept at scale -- scientific proof of the real-world value of running ads.",
+    "author": "Elegant Tools"
+  }, {
+    "link": "http://www.dataphoric.com/split-testing-for-geniuses/",
+    "title": "Split Testing for Geniuses",
+    "excerpt": "You are sitting at a slot machine with two levers, labeled A and B. When you pull a lever, sometimes a dollar comes out of the slot and sometimes not. The casino tells you that each lever has a fixed chance of giving you a dollar (its success rate) but, of course, they don't tell you what it is.",
+    "author": "Dataphoric"
+  }, {
+    "link": "http://www.theverge.com/2015/7/22/9017067/new-york-city-mayor-backs-down-from-uber-fight-agrees-not-to-cap",
+    "title": "New York City Mayor Backs Down From Uber Fight, Agrees Not to Cap Growth",
+    "excerpt": "This morning I wrote a story arguing that New York City government was doing the right thing by trying to limit the growth of Uber's massive vehicle fleet. The mayor and many on the City Council wanted time to study the industry's impact on congestion, among other things, before allowing it to continue its explosive expansion.",
+    "author": "The Verge"
+  }, {
+    "link": "http://recode.net/2015/07/22/google-may-face-another-eu-case-this-one-is-about-ads/",
+    "title": "Google May Face Another EU Case. This One Is About Ads.",
+    "excerpt": "August will not be a relaxing month for Google's European staffers. At least two advertising tech companies are lobbying European Union officials to launch an antitrust investigation into Google's suite of ad products, according to a report in the Financial Times.",
+    "author": "Re/code"
+  }, {
+    "link": "http://techcrunch.com/2015/07/22/microsoft-introduces-send-a-short-form-email-app-that-works-more-like-instant-messaging/",
+    "title": "Microsoft Introduces Send, A Short-Form Email App That Works More Like Instant Messaging",
+    "excerpt": "Microsoft today is introducing a new application aimed at reducing the time it takes to check and respond to email while on your smartphone. With Send, as the app is called, the idea is to make email perform more like instant messaging, as it does away with more formal email constructs - like the subject line, for example - in favor of quicker, shorter messages that you can dash off in seconds.",
+    "author": "TechCrunch"
+  }, {
+    "link": "http://www.mediatechsummit.com/",
+    "title": "Event: Media Tech Summit 2015: Turning Data Into Action",
+    "excerpt": "The 8th Annual Media Technology Summit will take place September 9-10 in Las Vegas during CTIA Super Mobility. It is a meticulously curated gathering of global trailblazers, innovators and investors.",
+    "author": "Shelly Palmer"
+  }, {
+    "link": "http://www.shellypalmer.com/events/ctia/",
+    "title": "CTIA Floor Tours",
+    "excerpt": "With over 35,000 attendees, 1100 exhibits and 275,000 square feet of interactive displays, navigating the show floor can be challenging. We design our floor tours so that you see the best of the best of CTIA in an efficient, relevant, and meaningful way.",
+    "author": "Shelly Palmer"
+  }]
+}
